@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function(){
     }
   })
 
-  
+  // here we go team!
   //functions
 
   function genBallPosition() {
