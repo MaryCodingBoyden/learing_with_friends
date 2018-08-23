@@ -22,7 +22,9 @@ document.addEventListener("DOMContentLoaded", function(){
   //functions
 
   function genBallPosition() {
-    // generate winning location
+    'box-0'
+    'box-1'
+    'box-2'
   }
 
   function incCounters() {
